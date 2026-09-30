@@ -1,4 +1,4 @@
-# Toxic Shelter — Game Planning Document
+# BunkerGame
 
 ## 1. 게임 개요
 
